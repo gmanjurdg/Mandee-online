@@ -1,0 +1,39 @@
+        #discountModal > .cross { padding-top: 6px !important; color: white; }
+
+        #discountModal > .modal-backdrop { background-color: transparent; }
+
+        #discountModal > .modal-content { width: 60%; }
+
+        #discountModal > .modal-header { background-color: black; height: 40px; border-top-left-radius: 0px; border-top-right-radius: 0px; }
+
+        #discountModal > .modal-title { color: white; /*line-height: 2;*/ font-size: 13px; }
+
+        #discountModal > .modal-body button { text-transform: capitalize; color: forestgreen; }
+
+        #discountModal > .modal-dialog { top: 150px; }
+
+        #savedlisttitle { font-size: 24px; }
+        #createnew { font-size: 18px; }
+        .lisaved { border-bottom: 1px solid #ccc; height: 35px; text-align: left; /*border-radius: 5px;*/ text-transform: capitalize; font-size: 16px; /*margin-bottom: 13px;*/ font-weight: normal; line-height: inherit; padding: 5px; }
+
+        .liactive { background-color: #729133; color: #fff; /*padding: 6px 18px;*/ }
+
+        .devider { display: grid; grid-template-columns: 1fr auto; align-items: center; }
+
+            .devider div { cursor: pointer; }
+
+        .product-thumb img { height: 143px; }
+
+        img { max-width: 90%; }
+        #btnrating { width: 40px; height: 24px; font-size: 12px; line-height: 1.33; font-family: Assistant-Regular; border: 1px solid #77963f; margin-right: 10px; }
+        .showmore { float: right; text-align: right; margin-top: 0px; font-size: 16px; padding-top: 20px; }
+        /*.footer-bg { min-height: 350px !important; }*/
+
+        .banner-btn { display: flex; margin: auto; margin-bottom: 50px; margin-right: 20%; }
+
+        .banner-area2-span-ct { background: #FAA519; width: 134px !important; height: 40px !important; text-transform: capitalize; cursor: pointer; display: flex; align-items: center; justify-content: center; font-weight: bold; border-radius: 5px; font-size: 14px; line-height: 1.14; letter-spacing: normal; text-align: center; color: #fefefe; box-shadow: 2px 1px 5px 1px #222; }
+
+        .download-app { width: 160px !important; height: 40px !important; background-color: #729133; margin: auto; border-radius: 5px; text-transform: none !important; box-shadow: 2px 1px 5px 1px #222; }
+
+        .bannerapp-btn { display: flex; margin: auto; margin-bottom: 50px; margin-right: 20%; }
+    
